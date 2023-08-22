@@ -1,11 +1,13 @@
 ### Hello! 👋 My name is Karen...
 
-...and I'm a passionate web developer on a journey to become a qualified Full Stack Developer.
+..and I'm a passionate web developer on a journey to become a qualified Full Stack Developer.
+
 I am dedicated to expanding my knowledge and expertise in technologies such as Next.js, Express, MongoDB, PostgreSQL, Typescript and Testing.
 
 > I also work as a developer at **Ana Health** and and teach for non programmers at **Iron Hack**.
 
 Please feel free to check out my Portfolio.
+
 _Important note: As a teacher, a good part of my projects here are part of the exercises that I give to the students._
 
 To view the full projects that I have contributed to, you can explore the pinned projects below.
