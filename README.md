@@ -1,6 +1,6 @@
 ### Hello! 👋 My name is Karen...
 
-..and I'm a passionate web developer on a journey to become a qualified Full Stack Developer.
+...and I'm a passionate web developer on a journey to become a qualified Full Stack Developer.
 I am dedicated to expanding my knowledge and expertise in technologies such as Next.js, Express, MongoDB, PostgreSQL, Typescript and Testing.
 
 > I also work as a developer at **Ana Health** and and teach for non programmers at **Iron Hack**.
@@ -20,7 +20,7 @@ If you have any questions, interesting projects, or just want to connect, you ca
 
 #### databases
 
-## ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### front
 
