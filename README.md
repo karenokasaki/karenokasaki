@@ -4,7 +4,7 @@
 
 I am dedicated to expanding my knowledge and expertise in technologies such as Next.js, Express, MongoDB, PostgreSQL, Typescript and Testing.
 
-> I also work as a developer at **Ana Health** and and teach for non programmers at **Iron Hack**.
+> I also work as a developer at **Ana Health** and teach for non programmers at **Iron Hack**.
 
 Please feel free to check out my Portfolio.
 
